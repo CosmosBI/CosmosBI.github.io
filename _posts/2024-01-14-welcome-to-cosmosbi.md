@@ -7,9 +7,9 @@ Members of the Power BI Community are a Giving Community.
 
 Some the the community members that share great content are listed below:
 
-[SQL BI]: https://www.sqlbi.com/
-[Kratos BI]:   https://www.kratosbi.com/
-[Guy In a Cube]: https://guyinacube.com/
+[SQL BI]: (https://www.sqlbi.com/)
+[Kratos BI]:   (https://www.kratosbi.com/)
+[Guy In a Cube]: (https://guyinacube.com/)
 
 
 
