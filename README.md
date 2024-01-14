@@ -6,7 +6,7 @@ layout: page
 
 ## Thomas Greene
 
-Tom is a Data Geek, who loves learning about the Microsoft Data Ecosystem.  His passion for data began many years ago when he was introduced to Lotus 1-2-3  on his sister's yellow type mainframe. [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Tom is a Data Geek, who loves learning about the Microsoft Data Ecosystem.  His passion for data began many years ago when he was introduced to Lotus 1-2-3  by his older siblings. [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
 ## Work Experience
 
