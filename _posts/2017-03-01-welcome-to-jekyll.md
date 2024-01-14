@@ -3,7 +3,7 @@ title: "Welcome to Cosmos BI"
 layout: post
 ---
 
-Members of the Power BI Community are a Givning Community.
+Members of the Power BI Community are a Giving Community.
 
 Some the the community members that share great content are listed below:
 
