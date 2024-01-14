@@ -7,7 +7,7 @@ Members of the Power BI Community are a Giving Community.
 
 Some the the community members that share great content are listed below:
 
-Check out [SQL BI](https://www.sqlbi.com/) for more info on how to get the most out of writing DAX. Check out the "Data Gods" at [Kratos BI](https://www.kratosbi.com/)to assist you in your Data journey. If you have want to keep up on the latest Power BI and Fabric news, tune in to [Guy in a Cube]((https://www.youtube.com/@GuyInACube) on Saturday mornings.
+Check out [SQL BI](https://www.sqlbi.com/) for more info on how to get the most out of writing DAX. Check out the "Data Gods" at [Kratos BI](https://www.kratosbi.com/) to guide you in your Data journey. If you have want to keep up on the latest Power BI and Fabric news, tune in to [Guy in a Cube]((https://www.youtube.com/@GuyInACube) on Saturday mornings.
 
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
