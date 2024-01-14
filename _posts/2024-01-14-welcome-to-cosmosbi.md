@@ -7,6 +7,8 @@ Members of the Power BI Community are a Giving Community.
 
 Some the the community members that share great content are listed below:
 
+Check out the [SQL BI][SQL BI] for more info on how to get the most out of writing DAX. For the Data Gods [Kratos BI][Kratos BI]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
 [SQL BI]: (https://www.sqlbi.com/)
 [Kratos BI]:   (https://www.kratosbi.com/)
 [Guy In a Cube]: (https://guyinacube.com/)
