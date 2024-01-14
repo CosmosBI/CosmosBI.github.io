@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Cosmos BI TEST"
+title: "Welcome to Cosmos BI"
 layout: post
 ---
 
