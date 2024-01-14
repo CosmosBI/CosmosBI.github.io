@@ -6,13 +6,13 @@ layout: page
 
 ## Thomas Greene
 
-Tom is a Data Geek, who loves learning about the Microsoft Data Ecosystem.  His passion for data began with many years ago when he was introduced to Lotus 1-2-3  on his sister's yellow type mainframe. [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Tom is a Data Geek, who loves learning about the Microsoft Data Ecosystem.  His passion for data began many years ago when he was introduced to Lotus 1-2-3  on his sister's yellow type mainframe. [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
 ## Work Experience
 
  - Leads team that manages the financial reporting for an Insurance Management Company
- - Insurance Mangement of Proprty & Casualty focused insurer, Workers Compensation program, along with a Health Cooperative
- - Incorparates Power BI to bring the financials to life
+ - Insurance Management of Property & Casualty focused insurer, Workers Compensation program, along with a Health Cooperative
+ - Incorporates Power BI to bring the financials to life in additon to determining the driving force of the factors driving the financial results
  - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
 
 ## Based on
