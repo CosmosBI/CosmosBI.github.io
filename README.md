@@ -15,14 +15,7 @@ Tom is a Data Enthusiast, who loves learning all there is to know about the Micr
  - Incorporates Power BI to bring the financials to life in additon to determining the driving force of the factors driving the financial results
  - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
 
-## Based on
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
 
 ## Web Theme Build (jekyll-remote-theme method)
 
