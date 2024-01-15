@@ -6,7 +6,7 @@ layout: page
 
 ## Thomas Greene
 
-Tom is a Data Geek, who loves learning about the Microsoft Data Ecosystem.  His passion for data began many years ago when he was introduced to Lotus 1-2-3  by his older siblings. [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Tom is a Data Enthusiast, who loves learning all there is to know about the Microsoft Data Platform.  His passion for data began many years ago when he was introduced to Lotus 1-2-3  by his older siblings. The Microsft Dataplatform is cast, and no one person can know it all but to Microsfts credit, they empower every person to give it their best shot by providing the tools to learn and empower yourself with knowledge to take advantage of platform for your work or personal growth.  Visti the [Microsoft Learn] (    [repository](https://github.com/cosmosbi/repository) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
 ## Work Experience
 
