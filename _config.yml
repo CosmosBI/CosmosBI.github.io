@@ -18,6 +18,9 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home", icon: GreeneIcon}
   - {file: "README.md", title: "About me", icon: address-card}
+  - {file: "top_pbi_blogs.md", title: "Top Power BI Blogs to Follow", icon: address-card}
+
+  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:cosmosbi@users.noreply.github.com"}
