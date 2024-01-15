@@ -18,6 +18,8 @@ Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, tur
 
 ###### Heading Six (h6)
 
+###### Heading Seven (h7)
+
 
 ## Blockquotes
 

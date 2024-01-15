@@ -12,8 +12,7 @@ Tom is a Data Enthusiast, who loves learning all there is to know about the Micr
 
  - Leads team that manages the financial reporting for an Insurance Management Company
  - Insurance Management of Property & Casualty focused insurer, Workers Compensation program, along with a Health Cooperative
- - Incorporates Power BI to bring the financials to life in additon to determining the driving force of the factors driving the financial results
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+ - Incorporates Power BI to bring the financials to life in addition to identifying the driving factors behind the financial results
 
 
 
