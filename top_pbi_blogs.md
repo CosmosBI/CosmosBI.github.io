@@ -1,5 +1,5 @@
 ---
-title: "Top Power BI Blog Influencers"
+title: "Top Power BI Blogs"
 permalink: "/pbiblogs/"
 layout: page
 ---
