@@ -6,7 +6,7 @@ layout: page
 
 ## Power BI Influencers to Follow
 
-The Microsft data platform is vast, and no one person can know it all, but to Microsoft's credit, they empower every person to give it their best shot by providing the tools to learn and educate yourself with knowledge to take advantage of platform for your work or personal growth.  Visit [Microsoft Learn](https://learn.microsoft.com/) to determine your next path to learn and grow on your own data journey.
+The Microsoft data platform is vast, and no one person can know it all, but to Microsoft's credit, they empower every person to give it their best shot by providing the tools to learn and educate yourself with knowledge to take advantage of platform for your work or personal growth.  Visit [Microsoft Learn](https://learn.microsoft.com/) to determine your next path to learn and grow on your own data journey.
 
 ## Power BI Influencers to Follow
  
