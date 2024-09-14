@@ -10,8 +10,8 @@ Tom is a Data Enthusiast, who loves learning all there is to know about the Micr
 
 ## Work Experience
 
- - Leads team that manages the financial reporting for an Insurance Management Company
- - Insurance Management of Property & Casualty focused insurer, Workers Compensation program, along with a Health Cooperative
+ - Leads team that manages the financial reporting for various Insurance Entities.
+ - Insurance Management of Property & Casualty focused insurer, Workers Compensation program, along with a Health Cooperative.
  - Incorporates Power BI to bring the financials to life in addition to identifying the driving factors behind the financial results
 
 
