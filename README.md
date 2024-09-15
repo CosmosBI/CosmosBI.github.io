@@ -6,7 +6,7 @@ layout: page
 
 ## Thomas Greene
 
-Tom is a Data Enthusiast, who loves learning all there is to know about the Microsoft Data Platform.  His passion for data began many years ago when he was introduced to Lotus 1-2-3  by his older siblings. The Microsft Dataplatform is cast, and no one person can know it all but to Microsfts credit, they empower every person to give it their best shot by providing the tools to learn and empower yourself with knowledge to take advantage of platform for your work or personal growth.  Visti the [Microsoft Learn] (    [repository](https://github.com/cosmosbi/repository) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Tom is a Data Enthusiast, who loves learning all things data.  His passion for data began many years ago when he started playining with Lotus 1-2-3 and MS-DOS way back in the day.  The data path bug grew from there while gravitating more towards the Microsoft ecosystem.  The Microsft Data platform is vast, and no one person can learn it all but to Microsofts credit, they empower every person to give it their best shot by providing the tools to learn and empower yourself with knowledge to take advantage of platform for your work or personal growth.  Visit the [Microsoft Learn](https://github.com/cosmosbi/repository) or [Github Pages](https://pages.github.com/).
 
 ## Work Experience
 
