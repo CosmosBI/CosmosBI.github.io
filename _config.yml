@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home", icon: magnifying-glass-chart} #magnifying-glass-chart
   - {file: "README.md", title: "About me", icon: address-card}
   - {file: "top_pbi_blogs.md", title: "Top Power BI Blogs", icon: address-card}
+  - {file: "mlb_schedule.md", title: "MLB Schedule", icon: address-card}
 
   
 
